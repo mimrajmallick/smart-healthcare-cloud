@@ -1,32 +1,32 @@
 # Smart Healthcare System on Cloud 🩺☁️
 
-A cloud-based healthcare web application (in progress) designed to:
+This is a personal project I'm currently working on. The goal is to build a cloud-based healthcare web application that helps users:
 
-- Assist users in checking symptoms through interactive forms.
-- Help manage and store digital medical records securely.
-- Provide access to healthcare tools and remote resources.
+- Check symptoms through interactive forms.
+- Store and manage medical records digitally.
+- Access useful healthcare tools remotely.
 
 ## 🚀 Project Status
 
-🔧 Currently in planning and setup phase.  
-📌 Architecture design, tech stack decisions, and feature roadmap are in progress.
+Right now, the project is in its early planning and setup stage.  
+I'm working on the architecture, deciding on the tech stack, and laying out a roadmap for development.
 
 ## 🛠️ Tech Stack (Planned)
 
-- Firebase (Authentication & Firestore)
-- Node.js & Express.js (Backend)
-- HTML/CSS/JavaScript (Frontend)
-- REST APIs & Cloud Functions
+- Firebase (Firestore + Authentication)
+- Node.js & Express.js for backend
+- HTML, CSS, JavaScript for frontend
+- REST APIs and possibly Cloud Functions
 
-## 📂 Project Roadmap
+## 📂 To-Do / Roadmap
 
-- [ ] UI Wireframe Design
-- [ ] Setup Firebase Project
-- [ ] Implement Authentication
-- [ ] Build Medical Record Dashboard
-- [ ] Symptom Checker Integration
+- [ ] Design the UI wireframe
+- [ ] Setup Firebase backend
+- [ ] Add user authentication
+- [ ] Create medical record dashboard
+- [ ] Build symptom checker functionality
 
-## 📎 Author
+## 📎 About Me
 
-👤 [Samim Mallick](https://github.com/mimrajmallick)
-
+I'm Samim Mallick, currently exploring cloud development and healthcare tech.  
+Check out more of my work here: [GitHub Profile](https://github.com/mimrajmallick)
